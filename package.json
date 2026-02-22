@@ -1,0 +1,23 @@
+{
+  "name": "comp3133-assignment1-101487514",
+  "version": "1.0.0",
+  "description": "COMP3133 Assignment 1 – Employee Management System (GraphQL API)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/scripts/seed.js"
+  },
+  "keywords": ["graphql", "express", "mongodb", "employee-management"],
+  "author": "Pratik Pokhrel (101487514)",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3"
+  }
+}
