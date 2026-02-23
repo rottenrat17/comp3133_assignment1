@@ -1,6 +1,6 @@
 # COMP3133 – Assignment 1 (Employee Management System – GraphQL Backend)
 
-**Student:** Pratik Pokhrel  
+**Name:** Pratik Pokhrel  
 **Student ID:** 101487514
 
 This is a backend-only Employee Management System built with **Node.js**, **Express**, **GraphQL**, and **MongoDB Atlas**.  
